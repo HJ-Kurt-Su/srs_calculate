@@ -1,5 +1,3 @@
-# srs_calculate
-Calulate SRS profile by input time domain G level
 # srs_calculate (Shock Response Spectrum Calculator)
 
 這是一個基於 Python Streamlit 的衝擊響應頻譜 (SRS) 分析工具。
